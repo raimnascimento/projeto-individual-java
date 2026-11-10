@@ -32,6 +32,8 @@ O sistema permite gerenciar o acervo de um museu, cadastrando e consultando dife
 - **`Conexao`**: Gerencia a conexão JDBC com o MySQL.
 - **`Main`**: Interface via terminal (menu interativo) para testar o sistema.
 
+![Diagrama de Classes](diagrama-java.drawio.png)
+
 ---
 
 Projeto desenvolvido para fins educacionais na SPTech.
